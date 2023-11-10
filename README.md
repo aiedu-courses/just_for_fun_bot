@@ -4,7 +4,9 @@
 
 ## Как сделать запуск бота в виде сервиса в Ubuntu
 ### 1 ШАГ
-nano /lib/systemd/system/just4funbot.service
+```
+$ nano /lib/systemd/system/just4funbot.service
+```
 
 ### 2 ШАГ
 ```
